@@ -11,8 +11,8 @@
 - 허용·묻기·거부를 웹에서 옮겨 저장하는 정책 보드
 - 웹과 Agent를 컨테이너 하나로 설치하는 구성
 
-**포트폴리오** · https://rlawlsy.github.io/2026-capstone-bosun-agent/
-**코드** · https://github.com/bosun-agent/bosun-agent
+- **포트폴리오**: https://rlawlsy.github.io/2026-capstone-bosun-agent/
+- **코드**: https://github.com/bosun-agent/bosun-agent
 
 ### 기술
 
